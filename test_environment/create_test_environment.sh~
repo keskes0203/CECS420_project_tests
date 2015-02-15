@@ -1,0 +1,7 @@
+mkdir input
+mkdir output
+mkdir solutions
+mkdir sourcecode
+mkdir results
+
+python create_tests.py input solutions
